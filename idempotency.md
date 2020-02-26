@@ -14,4 +14,4 @@ Why it matters in distributed systems:
 * Workflow orchestration (like SWF or StepFunctions or Conductor) assume activities/workers are idempotent.
 
 Recommended reading:
-https://stripe.com/blog/idempotency
+1. [https://stripe.com/blog/idempotency](https://stripe.com/blog/idempotency)
